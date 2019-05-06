@@ -13,9 +13,9 @@ MyMAGELLAN benötigt keine besonderen Hardware-Anforderungen, lediglich die Bild
 
 Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Administrator erhalten haben, gehen Sie wie folgt vor:
 
-1.	Starten Sie über Ihren Windows-Explorer die Datei „MyMAGELLAN 6.exe“ auf Ihrem Datenträger.
+1. Starten Sie über Ihren Windows-Explorer die Datei „MyMAGELLAN 6.exe“ auf Ihrem Datenträger.
 
-2.	Folgen Sie den Anweisungen des Installationsprogramms. 
+2. Folgen Sie den Anweisungen des Installationsprogramms. 
 	
 Wenn Sie alle Angaben bestätigt haben, beginnt das Installationsprogramm damit, alle benötigten Dateien auf Ihren Rechner zu kopieren. Dies dauert  eine gewisse Zeit. Nach Abschluss der Installation müssen Sie noch einmal bestätigen.
 
@@ -23,9 +23,9 @@ Wenn Sie alle Angaben bestätigt haben, beginnt das Installationsprogramm damit,
 
 Sie können jetzt MyMAGELLAN starten:
 
-1.	Klicken Sie auf Start links unten auf Ihrem Bildschirm.
+1. Klicken Sie auf Start links unten auf Ihrem Bildschirm.
 
-2.	Klicken Sie auf Programme, dann auf STÜBER SYSTEMS und dann auf MyMAGELLAN 6.
+2. Klicken Sie auf Programme, dann auf STÜBER SYSTEMS und dann auf MyMAGELLAN 6.
 	
 MyMAGELLAN 6 wird nun gestartet.
 
@@ -35,9 +35,9 @@ MyMAGELLAN 6 wird nun gestartet.
 
 Laden Sie jetzt Ihre MyMAGELLAN-Datei, die Sie von Ihrem Administrator erhalten haben. Gehen Sie dazu wie folgt vor:
 
-1.	Klicken Sie auf Datei und dann auf Öffnen.
+1. Klicken Sie auf Datei und dann auf Öffnen.
 
-2.	Wählen Sie die MyMAGELLAN-Datei aus und klicken Sie auf Öffnen.
+2. Wählen Sie die MyMAGELLAN-Datei aus und klicken Sie auf Öffnen.
 
 Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Datei gefragt. Tippen Sie dazu das von Ihrem Administrator erhaltene Kennwort Ihrer Datei ein.
 
@@ -50,11 +50,11 @@ Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Date
 
 Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine werden. Beugen Sie damit dem möglichen Verlust Ihrer Daten vor (Stromausfall, versehentliches Löschen usw.). Beachten Sie daher bitte folgende Ratschläge:
 
-•	Speichern Sie regelmäßig, mindestens täglich, Ihre MyMAGELLAN-Datei mit der Endung .mym.
+* Speichern Sie regelmäßig, mindestens täglich, Ihre MyMAGELLAN-Datei mit der Endung .mym.
 
-•	Verwenden Sie mehr als ein Sicherungsmedium für Sicherungskopien und benutzen Sie diese der Reihe nach. So bleiben ältere Stadien der Daten erhalten.
+* Verwenden Sie mehr als ein Sicherungsmedium für Sicherungskopien und benutzen Sie diese der Reihe nach. So bleiben ältere Stadien der Daten erhalten.
 
-•	Bewahren Sie die Kopien an einem sicheren Ort auf.
+* Bewahren Sie die Kopien an einem sicheren Ort auf.
 
 !!! info "Hinweis"
 
