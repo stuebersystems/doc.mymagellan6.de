@@ -2,11 +2,11 @@
 
 Nachdem Sie Ihre MyMAGELLAN-Datei in MyMAGELLAN geladen haben, können Sie unter verschiedenen Sichtweisen die Noten Ihrer Schüler eingeben:
 
-•	Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl einer Klasse können Sie schülerweise und/oder fachweise vorgehen.
+* Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl einer Klasse können Sie schülerweise und/oder fachweise vorgehen.
 
-•	Schülersichtweise: Bei der Schülersichtweise werden alle Schüler ins¬gesamt aufgelistet und Sie können nach Auswahl eines Schüler nur des¬sen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.
+* Schülersichtweise: Bei der Schülersichtweise werden alle Schüler ins¬gesamt aufgelistet und Sie können nach Auswahl eines Schüler nur des¬sen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.
 
-•	Fächersichtweise: Bei der Fächersichtweise finden Sie eine Auflistung aller Fächer bzw. Kurse, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl eines Fachs/Kurses können Sie für die einzelnen Schüler des Kurses Ihre Eingaben vornehmen.
+* Fächersichtweise: Bei der Fächersichtweise finden Sie eine Auflistung aller Fächer bzw. Kurse, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl eines Fachs/Kurses können Sie für die einzelnen Schüler des Kurses Ihre Eingaben vornehmen.
 
 Welche Sichtweise Sie für Ihre Eingaben verwenden bleibt Ihnen überlassen. Selbstverständlich können Sie auch zwischen den Sichtweisen wechseln.
 
@@ -18,11 +18,11 @@ Die Eingabe von selbst definierten Noten oder Veränderung von Schüler¬stammda
 
 Um die Noten aus Klassensicht einzugeben, müssen Sie wie folgt vorgehen.
 
-1.	Klicken Sie auf Ansicht und dann auf Klassen anzeigen.
+1. Klicken Sie auf Ansicht und dann auf Klassen anzeigen.
 
-2.	Doppelklicken Sie auf eine Zeile der Liste der Klassen auf der Registerkarte  Auswahl.
+2. Doppelklicken Sie auf eine Zeile der Liste der Klassen auf der Registerkarte  Auswahl.
 
-3.	Sie befinden Sie jetzt auf der Registerkarte Schüler-Matrix.
+3. Sie befinden Sie jetzt auf der Registerkarte Schüler-Matrix.
 
 ### Registerkarte Schüler-Matrix
 
@@ -67,13 +67,13 @@ Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Ver¬säumn
 
 So fügen Sie eine Zeugnisbemerkung ein:
 
-1.	Klicken Sie auf Hinzufügen.
+1. Klicken Sie auf Hinzufügen.
 
-2.	Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie können dazu auf Textbausteine über die Schalt¬fläche Aus Verzeichnis wählen zurückgreifen, sofern diese zuvor in MAGELLAN definiert worden sind.
+2. Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie können dazu auf Textbausteine über die Schaltfläche Aus Verzeichnis wählen zurückgreifen, sofern diese zuvor in MAGELLAN definiert worden sind.
 
-3.	Legen Sie optional ein Merkmal bzw. eine Position der Bemerkung fest.
+3. Legen Sie optional ein Merkmal bzw. eine Position der Bemerkung fest.
 
-4.	Klicken Sie auf OK.
+4. Klicken Sie auf OK.
  
 <figure class="center">
     <img src="/assets/images/screenshot5.png" alt="Dialogfenster Zeugnisbemerkungen">
@@ -97,11 +97,11 @@ Auf der Registerkarte Fächer-Matrix sind alle Schüler der Klasse aus Sicht¬we
 
 Um die Noten aus Schülersicht einzugeben, müssen Sie wie folgt vorgehen.
 
-1.	Klicken Sie auf Ansicht und dann auf Schüler anzeigen.
+1. Klicken Sie auf Ansicht und dann auf Schüler anzeigen.
 
-2.	Doppelklicken Sie auf eine Zeile der Liste der Schüler auf der Registerkarte Auswahl.
+2. Doppelklicken Sie auf eine Zeile der Liste der Schüler auf der Registerkarte Auswahl.
 
-3.	Sie befinden Sie jetzt auf der Registerkarte Zeugnisdaten.
+3. Sie befinden Sie jetzt auf der Registerkarte Zeugnisdaten.
 
 <figure class="center">
     <img src="/assets/images/screenshot7.png" alt="Registerkarte Leistungen auf der Registerkarte Zeugnisdaten">
@@ -114,11 +114,11 @@ Die Eingabe auf der Registerkarte Zeugnisdaten erfolgt analog zur Eingabe auf de
 
 Um die Noten aus Fach- bzw. Kurssicht einzugeben, müssen Sie wie folgt vorgehen.
 
-1.	Klicken Sie auf Ansicht und dann auf Fächer anzeigen.
+1. Klicken Sie auf Ansicht und dann auf Fächer anzeigen.
 
-2.	Markieren Sie eine Zeile der Liste der Fächer bzw. Kurse .
+2. Markieren Sie eine Zeile der Liste der Fächer bzw. Kurse .
 
-3.	Sie können nun im rechten Bereich die Noten aus Fächer- bzw. Kurssicht erfassen.
+3. Sie können nun im rechten Bereich die Noten aus Fächer- bzw. Kurssicht erfassen.
  
 <figure class="center">
     <img src="/assets/images/screenshot8.png" alt="Registerkarte Fächer-Matrix zur fach- bzw. kursweisen Erfassung der Noten">
