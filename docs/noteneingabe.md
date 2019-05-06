@@ -4,7 +4,7 @@ Nachdem Sie Ihre MyMAGELLAN-Datei in MyMAGELLAN geladen haben, können Sie unter
 
 * Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl einer Klasse können Sie schülerweise und/oder fachweise vorgehen.
 
-* Schülersichtweise: Bei der Schülersichtweise werden alle Schüler ins¬gesamt aufgelistet und Sie können nach Auswahl eines Schüler nur des¬sen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.
+* Schülersichtweise: Bei der Schülersichtweise werden alle Schüler insgesamt aufgelistet und Sie können nach Auswahl eines Schüler nur dessen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.
 
 * Fächersichtweise: Bei der Fächersichtweise finden Sie eine Auflistung aller Fächer bzw. Kurse, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl eines Fachs/Kurses können Sie für die einzelnen Schüler des Kurses Ihre Eingaben vornehmen.
 
@@ -12,7 +12,7 @@ Welche Sichtweise Sie für Ihre Eingaben verwenden bleibt Ihnen überlassen. Sel
 
 Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
 
-Die Eingabe von selbst definierten Noten oder Veränderung von Schüler¬stammdaten ist nicht möglich! Wenden Sie sich in diesem Fall in Ihren Ad¬ministrator.
+Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall in Ihren Administrator.
 
 ## Eingabe der Noten aus Klassensicht
 
@@ -59,7 +59,7 @@ Auf der Registerkarte Weitere Daten können zusätzliche Informationen für das 
  
 Es gibt hier ein zusätzliches Optionsfeld „Keine Unterrichtstage, Versäumnisse, Fehltage usw...“
 
-Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Ver¬säumnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach MAGELLAN werden diese Felder nicht berücksichtigt und führen somit auch zu keinen Veränderungen bestehender Eingaben.
+Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Versäumnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach MAGELLAN werden diese Felder nicht berücksichtigt und führen somit auch zu keinen Veränderungen bestehender Eingaben.
 
 !!! info "Hinweis"
 
