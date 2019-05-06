@@ -1,0 +1,49 @@
+# Project information
+site_name: MyMAGELLAN 6
+site_description: 'MyMAGELLAN 6 Dokumentation'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_url: 'https://doc.mymagellan6.stueber.de'
+
+# Copyright
+copyright: © 2019 STÜBER SYSTEMS GmbH
+
+# Repository
+repo_name: 'Auf GitHub'
+repo_url: 'https://github.com/stuebersystems/doc.mymagellan6.de'
+
+# Theming
+theme: 
+    name: null
+    custom_dir: 'theme'
+    language: de
+    direction:
+    feature:
+        tabs: false
+    palette:
+        primary: 'indigo'
+        accent: 'amber'
+    font:
+        text: Roboto
+        code: Roboto Mono
+    favicon: assets/logos/favicon.ico
+    logo: 'assets/logos/logo.svg'
+    include_search_page: false
+    search_index_only: true
+    static_templates:
+      - 404.html
+
+# Customization
+extra_css:
+    - assets/css/custom.css
+    
+# Extensions    
+markdown_extensions:
+    - admonition
+  
+# Navigation  
+nav:
+- Überblick: index.md
+- Einführung: introduction.md
+- Was ist neu?: changelog.md
+- Installation: installation.md
+- Noteneingabe: noteneingabe.md
